@@ -6,7 +6,6 @@
 ##### Graduando em Sistemas de Informação na Universidade Federal do Espírito Santo.
 
 * * * 
-
 ## Contact:
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duquephl/)
@@ -26,15 +25,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/djan
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-  
-* * *
-
-<div>
-
-  [![Snake animation](https://github.com/duquephl/duquephl/blob/output/github-contribution-grid-snake.svg)](https://github.com/duquephl)
-
-</div>
- 
 * * * 
 ## Estatísticas do GitHub
 
