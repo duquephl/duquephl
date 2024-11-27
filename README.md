@@ -2,9 +2,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=duquephl&color=yellow" alt="Profile views" /> </p>
 
-##### Estagiário em Desenvolvimento na Solucionar Sistemas Integrados.
+##### Estagiário em Ciência de Dados na [Compass UOL](https://compass.uol/pt/home/).
 ##### Graduando em Sistemas de Informação na Universidade Federal do Espírito Santo.
-##### Professor de Lógica de Programação na Escola DNC.
 
 * * * 
 
@@ -13,16 +12,6 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duquephl/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duquephl/)
 
-* * *
-
-<div>
- <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=duquephl&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="duquephl's stats"/>
-<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=duquephl&theme=dark&hide_border=true&count_private=true" alt="duquephl's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquephl&layout=compact&theme=dark&langs_count=10&hide_border=true&count_private=true" alt="duquephl's most languages"/>
-</p>
-</div>
- 
 * * * 
 ## Tecnologias que eu utilizo no meu dia
 <div style="display: inline_block"><br>
@@ -47,6 +36,16 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dock
 </div>
  
 * * * 
+
+<div>
+ <p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=duquephl&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="duquephl's stats"/>
+<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=duquephl&theme=dark&hide_border=true&count_private=true" alt="duquephl's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquephl&layout=compact&theme=dark&langs_count=10&hide_border=true&count_private=true" alt="duquephl's most languages"/>
+</p>
+</div>
+
+* * *
 
  👋 Até Logo. 👋
 
