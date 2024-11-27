@@ -36,6 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dock
 </div>
  
 * * * 
+## Estatísticas do GitHub
 
 <div>
  <p align="center">
