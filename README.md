@@ -1,16 +1,53 @@
-## Hi there 👋
+## Oiie! Eu sou o Pedro Duque
 
-<!--
-**duquephl/duquephl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=duquephl&color=yellow" alt="Profile views" /> </p>
 
-Here are some ideas to get you started:
+##### Estagiário em Desenvolvimento na Solucionar Sistemas Integrados.
+##### Graduando em Sistemas de Informação na Universidade Federal do Espírito Santo.
+##### Professor de Lógica de Programação na Escola DNC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* * * 
+
+## Contact:
+
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duquephl/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duquephl/)
+
+* * *
+
+<div>
+ <p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=duquephl&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="duquephl's stats"/>
+<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=duquephl&theme=dark&hide_border=true&count_private=true" alt="duquephl's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duquephl&layout=compact&theme=dark&langs_count=10&hide_border=true&count_private=true" alt="duquephl's most languages"/>
+</p>
+</div>
+ 
+* * * 
+## Tecnologias que eu utilizo no meu dia
+<div style="display: inline_block"><br>
+  <img align="center" alt="duquephl-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt="duquephl-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="duquephl-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="duquephl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="duquephl-Psql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="duquephl-Dj" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="duquephl-Docker" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+
+  
+* * *
+
+<div>
+
+  [![Snake animation](https://github.com/duquephl/duquephl/blob/output/github-contribution-grid-snake.svg)](https://github.com/duquephl)
+
+</div>
+ 
+* * * 
+
+ 👋 Até Logo. 👋
+
+* * *
