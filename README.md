@@ -2,8 +2,10 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=duquephl&color=yellow" alt="Profile views" /> </p>
 
-##### Estagiário em Ciência de Dados na [Compass UOL](https://compass.uol/pt/home/).
-##### Graduando em Sistemas de Informação na Universidade Federal do Espírito Santo.
+##### Assistente Administrativo na Pátria Cidadania.
+##### Graduando em Bacharelado em Ciência e Tecnologia na Universidade Federal de Itajubá.
+##### Graduando em Bacharelado em Ciência da Computação na Universidade Estácio de Sá.
+
 
 * * * 
 ## Contact:
